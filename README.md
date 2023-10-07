@@ -4,6 +4,7 @@ Utilizando conceitos como:
 - Testes unitários;
 - Testes de integração;
 - TDD;
+- JDBC;
 - Mock;
 - Generics;
 - Annotations;
