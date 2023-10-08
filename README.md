@@ -1,5 +1,5 @@
 # sistema-de-vendas
-Sistema de vendas em Java utilizando JDBC para conexão com o banco de dados. <br />
+Sistema de vendas em Java com JDBC para conexão com o banco de dados. <br />
 Utilizando:
 - Testes unitários;
 - Testes de integração;
