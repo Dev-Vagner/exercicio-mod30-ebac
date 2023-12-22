@@ -1,4 +1,4 @@
-## sistema-de-vendas-jdbc
+# sistema-de-vendas-jdbc
 Sistema de vendas em Java com JDBC para conexão com o banco de dados. <br />
 Utilizando:
 - Testes unitários;
